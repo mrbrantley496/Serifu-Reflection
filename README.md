@@ -1,8 +1,4 @@
-# Following a demo on freecodecamp
+# Serifu Reflection
 
-This space will be updated later with a brief description of the project.
-このパンを手に入れましょう
-
-## Subheader
-
-Still following the youtube-torial
+This is a project is a data analytical approach to language learning. My blog detailing the thought process that engendered the code in this repository can be found [here] (https://serifureflection.wordpress.com) 
+A special thanks to the team over at [OpenSubs] (https://www.opensubtitles.org/) for allowing me access to their subtitle dataset.
